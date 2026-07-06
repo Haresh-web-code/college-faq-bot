@@ -1,0 +1,38 @@
+=========================================
+COLLEGE OF ENGINEERING & TECHNOLOGY
+OFFICIAL CAMPUS DIRECTORY & HELPDESK
+=========================================
+
+1. ACADEMIC DEPARTMENTS
+   * Computer Science & Engineering (CSE)
+     - Head of Department: Dr. Sarah Jenkins (Email: cse.hod@college.edu | Tel: Ext 401)
+     - Department Coordinator: Ms. Amanda Lee (Email: cse.coord@college.edu | Tel: Ext 402)
+   * Mechanical Engineering (ME)
+     - Head of Department: Dr. Robert Carter (Email: mech.hod@college.edu | Tel: Ext 411)
+   * Electrical & Electronics Engineering (EEE)
+     - Head of Department: Dr. Alan Vance (Email: eee.hod@college.edu | Tel: Ext 421)
+
+2. ADMINISTRATIVE OFFICES
+   * Registrar's Office
+     - Hours: Mon-Fri, 9:00 AM - 5:00 PM
+     - Location: Administration Block, Floor 1, Room 105
+     - Email: registrar@college.edu | Tel: +1-555-019-2001
+   * Accounts & Fee Section
+     - Location: Administration Block, Floor 1, Room 102
+     - Email: accounts@college.edu | Tel: +1-555-019-2002
+     - Hours for Cash Desk: 10:00 AM - 3:00 PM
+   * Dean of Academic Affairs
+     - Location: Administration Block, Floor 2, Room 201
+     - Email: dean.academic@college.edu | Tel: +1-555-019-2003
+
+3. STUDENT SERVICES & HELPDESKS
+   * Student Hostel warden (Men's Hostel)
+     - Warden: Mr. John David (Email: menshostel.warden@college.edu | Tel: +1-555-019-3011)
+   * Student Hostel warden (Women's Hostel)
+     - Warden: Mrs. Clara Smith (Email: womenshostel.warden@college.edu | Tel: +1-555-019-3012)
+   * Placement & Career Guidance Cell
+     - Director: Dr. Mark Fletcher (Email: placements@college.edu | Tel: Ext 550)
+   * IT Helpdesk / Computer Center
+     - Location: Library Building, Floor 2
+     - Email: it.help@college.edu | Tel: Ext 100
+     - Submit support tickets online via: portal.college.edu/it-support
